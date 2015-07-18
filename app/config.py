@@ -1,4 +1,4 @@
-__author__ = 'kirill'
+su__author__ = 'kirill'
 
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
